@@ -17,7 +17,7 @@
             <td>${user.username}</td>
             <td>${user.address}</td>
         </tr>
-    <#/list>
+    </#list>
 </table>
 </body>
 </html>

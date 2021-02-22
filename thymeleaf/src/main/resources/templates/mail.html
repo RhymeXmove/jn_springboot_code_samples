@@ -1,10 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+<p>hello 欢迎<span th:text="${username}"></span>加入 xxx 集团，你的入职信息如下：</p>
+<table border="1">
+    <tr>
+        <td>职位</td>
+        <td th:text="${position}"></td>
+    </tr>
+    <tr>
+        <td>薪水</td>
+        <td th:text="${salary}"></td>
+    </tr>
+</table>
+<img src="http://www.javaboy.org/images/sb/javaboy.jpg" alt="">
 </body>
 </html>

@@ -8,10 +8,7 @@ import org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactor
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @Author 江南一点雨
- * @Site www.javaboy.org 2019-08-11 19:57
- */
+
 @Configuration
 public class TomcatConfig {
     @Bean

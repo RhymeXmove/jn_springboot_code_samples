@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a9f843f-f8f4-444f-8996-b525ca9793c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\workspace\IDEA-workspace\jn_springboot_code_samples\springboot-demo7\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1olwBV0zoBJc6FvVhB59p2cG87B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.FoodMain2">
+    <configuration name="FoodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.FoodMain" />
+      <module name="springboot-demo7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.FoodMain2" />
+      <module name="springboot-demo7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FoodMain2" />
+        <item itemvalue="Application.FoodMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\shanxin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a9f843f-f8f4-444f-8996-b525ca9793c7" name="Default Changelist" comment="" />
+      <created>1613874349743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613874349743</updated>
+      <workItem from="1613874376266" duration="3155000" />
+    </task>
+    <task id="LOCAL-00001" summary=" &#10;Spring Boot2教程 7 理解自动化配置的原理 2021-0221-1150">
+      <created>1613879438249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613879438249</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" &#10;Spring Boot2教程 7 理解自动化配置的原理 2021-0221-1150" />
+    <option name="LAST_COMMIT_MESSAGE" value=" &#10;Spring Boot2教程 7 理解自动化配置的原理 2021-0221-1150" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1170" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1613876847543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613876847543" />
+    <state x="837" y="111" key="CommitChangelistDialog2" timestamp="1613879435707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613879435707" />
+    <state width="1064" height="279" key="GridCell.Tab.0.bottom" timestamp="1613879486487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1064" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613879486487" />
+    <state width="1064" height="279" key="GridCell.Tab.0.center" timestamp="1613879486487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1064" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613879486487" />
+    <state width="1064" height="279" key="GridCell.Tab.0.left" timestamp="1613879486487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1064" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613879486487" />
+    <state width="1064" height="279" key="GridCell.Tab.0.right" timestamp="1613879486487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1064" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613879486487" />
+    <state x="957" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613879448110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="957" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613879448110" />
+    <state x="1028" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1613877120317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1028" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613877120317" />
+  </component>
+</project>
